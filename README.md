@@ -8,7 +8,7 @@ You can read as well as compose blogs as per your choice.
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/MohitSaraff/Blog-Website/master/public/images/Screenshot.png)
+![App Screenshot](https://github.com/haryan61/Blog-Website/blob/main/public/images/Screenshot.png?raw=true)
 
 
 ## Tech Stack
